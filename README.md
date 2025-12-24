@@ -8,12 +8,10 @@
 
 ---
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acstr&show_icons=true) \
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acstr&layout=compact)
+[![Stats](https://github-readme-stats.vercel.app/api?username=acstr)](https://github.com/acstr/github-readme-stats)
 
 ---
 
 ## Contact
-- [<linkedin>](https://www.linkedin.com/in/acstr)
-- [<site>](https://www.adrianoscastro.com)
+- [LinkedIn](https://www.linkedin.com/in/acstr)
+- [Web](https://www.adrianoscastro.com)
