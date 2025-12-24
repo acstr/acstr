@@ -11,7 +11,7 @@
 
 ► **MinBFT** — Byzantine fault-tolerant consensus protocol implemented in Rust • [open-source](https://github.com/abcperf/minbft) \
 ► **Redacted** — Scientific study on the privacy of mixed-reality abstract facial motion data • soon to be open-source \
-► **RobustNeuralNet** — Verifying robustness using MILP & Gurobi, DeepPoly, PGD-based adversarial training • project for [RTAI](https://www.sri.inf.ethz.ch/teaching/rtai25) @ ETH Zürich \
+► **RobustNeuralNet** — Verifying robustness using MILP & Gurobi, DeepPoly, PGD-based adversarial training • [RTAI](https://www.sri.inf.ethz.ch/teaching/rtai25) @ ETHZ \
 ► **MultiAgentEval** - Evaluating fine-tuned open-source LLMs on multi-agent games • work in progress \
 ► **DigitalBallot** — Decentralized and anonym e-voting system • work in progress \
 ► **Website** — personal website showcasing my academia and career path • [work in progress](https://adrianoscastro.com)
