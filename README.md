@@ -8,7 +8,8 @@
 
 ---
 
-[Stats](https://github-readme-stats-theta-three-62.vercel.app/api?username=acstr)
+## Stats
+<img align="center" alt="acstr's GitHub Stats" src="https://github-readme-stats-theta-three-62.vercel.app/api?username=acstr" />
 
 ---
 
