@@ -14,7 +14,7 @@
 ► **NeuralNetRobustness** — Verifying classifier robustness using MILP & Gurobi, DeepPoly, PGD-based adversarial training • project for [RTAI](https://www.sri.inf.ethz.ch/teaching/rtai25) @ ETH Zürich \
 ► **MultiAgentEval** - Evaluating fine-tuned open-source LLMs on multi-agent games • work in progress \
 ► **DigitalBallot** — Decentralized and anonym e-voting system • work in progress \
-► **Website** — personal website showcasing my academia and career path • work in progress
+► **Website** — personal website showcasing my academia and career path • [work in progress](https://adrianoscastro.com)
 
 ## Stats
 <img align="center" alt="acstr's GitHub Stats" src="https://github-readme-stats-theta-three-62.vercel.app/api?username=acstr&show_icons=true&theme=transparent" />
