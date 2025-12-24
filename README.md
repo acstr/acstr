@@ -9,7 +9,7 @@
 ---
 
 ## Stats
-<img align="center" alt="acstr's GitHub Stats" src="https://github-readme-stats-theta-three-62.vercel.app/api?username=acstr" />
+<img align="center" alt="acstr's GitHub Stats" src="https://github-readme-stats-theta-three-62.vercel.app/api?username=acstr&show_icons=true&theme=transparent" />
 
 ---
 
