@@ -9,7 +9,7 @@
 
 ## Projects
 
-► **MinBFT** — Byzantine fault-tolerant consensus protocol implemented in Rust • [open-source](https://github.com/abcperf/minbft) \
+► **MinBFT** — Byzantine fault-tolerant consensus protocol implemented in Rust • [open-source](https://github.com/abcperf/minbft), [paper](https://doi.org/10.1145/3626564.3629101) \
 ► **Redacted** — Scientific study on the privacy of mixed-reality abstract facial motion data • soon to be open-source \
 ► **RobustNeuralNet** — Verifying robustness using MILP & Gurobi, DeepPoly, PGD-based adversarial training • [RTAI](https://www.sri.inf.ethz.ch/teaching/rtai25) @ ETHZ \
 ► **MultiAgentEval** — Evaluating fine-tuned open-source LLMs on multi-agent games • work in progress \
