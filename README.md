@@ -8,7 +8,7 @@
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=acstr)](https://github.com/acstr/github-readme-stats)
+[Stats](https://github-readme-stats-theta-three-62.vercel.app/api?username=acstr)
 
 ---
 
