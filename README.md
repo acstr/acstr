@@ -16,6 +16,13 @@
 ► **DigitalBallot** — Decentralized and anonym e-voting system • work in progress \
 ► **Website** — personal website showcasing my academia and career path • [work in progress](https://adrianoscastro.com)
 
-## Stats
-<img align="center" alt="acstr's GitHub Stats" src="https://github-readme-stats-theta-three-62.vercel.app/api?username=acstr&show_icons=true&theme=transparent" />
-<img align="center" alt="acstr's Top Languages" src="https://github-readme-stats-theta-three-62.vercel.app/api/top-langs/?username=acstr&show_icons=true&theme=transparent" />
+## Languages
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+</p>
