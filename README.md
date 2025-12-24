@@ -1,4 +1,4 @@
-# Hi, I’m Adriano 🫡
+# Hey, I’m Adriano 🫡
 
 🎓 Currently pursuing my Master's in CS @ [KIT](https://www.kit.edu/english/index.php), [ETHZ](https://ethz.ch/en.html), [UZH](https://www.uzh.ch/en.html) \
 🤔 Mainly interested in InfoSec, ML, SWE
