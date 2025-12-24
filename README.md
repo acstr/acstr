@@ -4,7 +4,7 @@
 🤔 Mainly interested in InfoSec, ML, SWE
 
 ## Career
-► 05/2024 - 09/2025: Data Privacy Engineer (Research Assistant) @ [KIT PS](https://ps.tm.kit.edu/english/index.php)
+► 05/2024 - 09/2025: Data Privacy Engineer (Research Assistant) @ [KIT PS](https://ps.tm.kit.edu/english/index.php) \
 ► 10/2021 — 07/2024: Software Security Engineer (Research Assistant) @ [KIT DSN](https://www.dsn.kastel.kit.edu/english/index.php)
 
 ## Projects
