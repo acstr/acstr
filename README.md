@@ -1,9 +1,10 @@
 # Hey, I’m Adriano 🫡
 
 🎓 Currently pursuing my Master's in CS @ [KIT](https://www.kit.edu/english/index.php) (exchange @ [ETHZ](https://ethz.ch/en.html), [UZH](https://www.uzh.ch/en.html)) \
-🤔 Mainly interested in InfoSec, ML, SWE
+🤔 Mainly interested in InfoSec, AI, AI Security
 
 ## Career
+► 02/2026 – present: AI Security Engineer (Working Student) @ [MBTI](https://www.mercedes-benz-techinnovation.com/en) \
 ► 05/2024 – 09/2025: Data Privacy Engineer (Research Assistant) @ [KIT PS](https://ps.tm.kit.edu/english/index.php) \
 ► 10/2021 – 07/2024: Software Security Engineer (Research Assistant) @ [KIT DSN](https://www.dsn.kastel.kit.edu/english/index.php)
 
