@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/card.png" width="320" alt="Adriano Castro, Security Engineer">
+</p>
+
 **TL;DR**: AI Security Engineer @ [Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com), M.Sc. Computer Science student @ [KIT](https://www.kit.edu/english/) (graduating May 2027), and former research assistant @ [KASTEL Security Research Labs](https://kastel-labs.de/). I design, break, harden, and optimize systems, from OS internals to network protocols and AI-powered applications. More at [adrianoscastro.com](https://adrianoscastro.com).
 
 Here you'll find research software from my time at university and security tooling I build on the side.
