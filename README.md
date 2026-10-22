@@ -2,7 +2,12 @@
   <img src="assets/card.png" width="320" alt="Adriano Castro, Security Engineer">
 </p>
 
-**TL;DR**: AI Security Engineer @ [Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com), M.Sc. Computer Science student @ [KIT](https://www.kit.edu/english/) (graduating May 2027), and former research assistant @ [KASTEL Security Research Labs](https://kastel-labs.de/). I design, break, harden, and optimize systems, from OS internals to network protocols and AI-powered applications. More at [adrianoscastro.com](https://adrianoscastro.com).
+► AI Security Engineer @ [Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com)
+► M.Sc. Computer Science student @ [KIT](https://www.kit.edu/english/) (graduating May 2027)
+► Former research assistant @ [KASTEL Security Research Labs](https://kastel-labs.de/)
+
+I design, break, harden, and optimize systems, from OS internals to network protocols and AI-powered applications.
+More at [adrianoscastro.com](https://adrianoscastro.com).
 
 Here you'll find research software from my time at university and security tooling I build on the side.
 Languages: `Rust`, `C`, `C++`, `Python`, `TypeScript`.
@@ -26,4 +31,4 @@ Performance evaluation of fault-tolerant state machine replication. Co-author, d
 **FacialMotionID**<br>
 Re-identifying mixed-reality headset users from abstract facial-motion data. First author, under review at an A-rated security & privacy conference.
 
-<sub>PGP: `D3FF 1201 D1EA 4375 2B22 3688 F11A B089 C6DE 6BC9` · [key](https://adrianoscastro.com/pgp.asc)</sub>
+PGP: `D3FF 1201 D1EA 4375 2B22 3688 F11A B089 C6DE 6BC9` · [key](https://adrianoscastro.com/pgp.asc)
