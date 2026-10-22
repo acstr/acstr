@@ -1,12 +1,25 @@
-# Hey, I’m Adriano 🫡
+**TL;DR**: AI Security Engineer @ [Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com), M.Sc. Computer Science student @ [KIT](https://www.kit.edu/english/) (graduating May 2027), and former research assistant @ [KASTEL Security Research Labs](https://kastel-labs.de/). I design, break, harden, and optimize systems, from OS internals to network protocols and AI-powered applications. More at [adrianoscastro.com](https://adrianoscastro.com).
 
-🎓 Currently finishing my Master's in CS @ [KIT](https://www.kit.edu/english/index.php) \
-🔒 Focusing on Security
+Here you'll find research software from my time at university and security tooling I build on the side.
+Languages: `Rust`, `C`, `C++`, `Python`, `TypeScript`.
 
-► SysSec
-► RevEng
-► ExploitDev
-► VulnResearch
-► PrivEng
-► NetSec
-► AISec
+### Projects
+
+**[MinBFT](https://github.com/acstr/minbft)**<br>
+Byzantine fault-tolerant consensus protocol in Rust on Intel SGX, built for the ABCperf evaluation framework.
+
+**Provably** · *in progress*<br>
+Neural-network verifier: proves a property over an input region, or returns a concrete counterexample.
+
+**ASIC Protocol Emulator** · *in progress*<br>
+Entry to Jane Street's Protocol Emulator ASIC competition.
+
+### Research
+
+**[ABCperf](https://doi.org/10.1145/3626564.3629101)**<br>
+Performance evaluation of fault-tolerant state machine replication. Co-author, demo paper at ACM Middleware '23.
+
+**FacialMotionID**<br>
+Re-identifying mixed-reality headset users from abstract facial-motion data. First author, under review at an A-rated security & privacy conference.
+
+<sub>PGP: `D3FF 1201 D1EA 4375 2B22 3688 F11A B089 C6DE 6BC9` · [key](https://adrianoscastro.com/pgp.asc)</sub>
