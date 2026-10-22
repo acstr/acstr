@@ -2,19 +2,19 @@
   <img src="assets/card.png" width="320" alt="Adriano Castro, Security Engineer">
 </p>
 
-► AI Security Engineer @ [Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com)
-► M.Sc. Computer Science student @ [KIT](https://www.kit.edu/english/) (graduating May 2027)
+► AI Security Engineer @ [Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com)<br>
+► M.Sc. Computer Science student @ [KIT](https://www.kit.edu/english/) (graduating May 2027)<br>
 ► Former research assistant @ [KASTEL Security Research Labs](https://kastel-labs.de/)
 
-I design, break, harden, and optimize systems, from OS internals to network protocols and AI-powered applications.
+I design, break, harden, and optimize systems, from OS internals to network protocols and AI-powered applications.<br>
 More at [adrianoscastro.com](https://adrianoscastro.com).
 
-Here you'll find research software from my time at university and security tooling I build on the side.
+Here you'll find research software from my time at university and security tooling I build on the side.<br>
 Languages: `Rust`, `C`, `C++`, `Python`, `TypeScript`.
 
 ### Projects
 
-**[MinBFT](https://github.com/acstr/minbft)**<br>
+**[MinBFT](https://github.com/acstr/minbft)**
 Byzantine fault-tolerant consensus protocol in Rust on Intel SGX, built for the ABCperf evaluation framework.
 
 **Provably** · *in progress*<br>
